@@ -312,7 +312,7 @@ The repository will contain the supporting materials used throughout the project
 - The Power BI report file, where available.
 
 - Skills Demonstrated: SQL | Data Analysis | Data Preparation | Marketing Analytics | Customer Segmentation | Business Intelligence | Microsoft Power BI | Data Visualisation
-- 
+  
 ## 12. Microsoft Power BI Report
 
 A Microsoft Power BI report is included in this repository:

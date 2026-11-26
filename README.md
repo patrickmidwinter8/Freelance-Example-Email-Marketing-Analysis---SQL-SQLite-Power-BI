@@ -310,15 +310,14 @@ The repository will contain the supporting materials used throughout the project
 - CSV datasets exported from the SQL analysis.
 - Power BI dashboard screenshots.
 - The Power BI report file, where available.
-- ## 12. Microsoft Power BI Report
+
+- Skills Demonstrated: SQL | Data Analysis | Data Preparation | Marketing Analytics | Customer Segmentation | Business Intelligence | Microsoft Power BI | Data Visualisation
+- 
+## 12. Microsoft Power BI Report
 
 A Microsoft Power BI report is included in this repository:
 
-- **File:** 'Microsoft BI Final.pibx`
-- **Download:** (./Microsoft_BI_Final.pbix)
+- **File:** [`Microsoft BI Final.pbix`](./Microsoft%20BI%20Final.pbix)
+- **Download:** [`Microsoft BI Final.pbix`](./Microsoft%20BI%20Final.pbix)
 
 The `.pbix` file contains the interactive report pages and visualisations described in this README.
-
----
-
-**Skills Demonstrated:** SQL | Data Analysis | Data Preparation | Marketing Analytics | Customer Segmentation | Business Intelligence | Microsoft Power BI | Data Visualisation

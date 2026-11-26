@@ -310,6 +310,14 @@ The repository will contain the supporting materials used throughout the project
 - CSV datasets exported from the SQL analysis.
 - Power BI dashboard screenshots.
 - The Power BI report file, where available.
+- ## 12. Microsoft Power BI Report
+
+A Microsoft Power BI report is included in this repository:
+
+- **File:** 'Microsoft BI Final.pibx`
+- **Download:** (./Microsoft_BI_Final.pbix)
+
+The `.pbix` file contains the interactive report pages and visualisations described in this README.
 
 ---
 

@@ -338,6 +338,6 @@ SQL queries were used to extract, combine and analyse the data before the findin
 
 **Privacy Notice:** Travel Business X is a pseudonym used to protect the identity of the original business. This project uses a constructed, illustrative dataset. All customer records and business performance figures are simulated and do not represent actual commercial results.
 
-**File:** `Travel Business X Database.db`
+**File:** [`Travel Business X Database.db`](./Tra
 
 **Tools:** SQLite | DB Browser for SQLite | SQL | Microsoft Power BI

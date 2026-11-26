@@ -321,3 +321,23 @@ A Microsoft Power BI report is included in this repository:
 - **Download:** [`Microsoft BI Final.pbix`](./Microsoft%20BI%20Final.pbix)
 
 The `.pbix` file contains the interactive report pages and visualisations described in this README.
+
+### 13. Travel Business X – SQLite Database
+
+This SQLite database contains the original dataset used to support my Travel Business X Email Marketing and Customer Analytics project.
+
+The database was created and managed using DB Browser for SQLite and consists of three relational tables:
+
+- **Campaigns:** Contains email campaign information, including campaign names, types, objectives and start dates.
+- **Customers:** Contains customer information, including customer segments, age groups, countries and preferred travel destinations.
+- **Email Events:** Records email marketing activity, including emails sent, deliveries, opens, clicks, conversions, unsubscribes and booking values.
+
+The database was used as the foundation for my SQL analysis, allowing me to explore relationships between customer behaviour, email campaign performance, bookings and revenue.
+
+SQL queries were used to extract, combine and analyse the data before the findings were developed into interactive dashboards using Microsoft Power BI.
+
+**Privacy Notice:** Travel Business X is a pseudonym used to protect the identity of the original business. This project uses a constructed, illustrative dataset. All customer records and business performance figures are simulated and do not represent actual commercial results.
+
+**File:** `Travel Business X Database.db`
+
+**Tools:** SQLite | DB Browser for SQLite | SQL | Microsoft Power BI
